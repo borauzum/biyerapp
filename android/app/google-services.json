@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832277022723",
+    "project_id": "biyer-69143",
+    "storage_bucket": "biyer-69143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832277022723:android:4bc881a050b32e1180a636",
+        "android_client_info": {
+          "package_name": "com.biyer.biyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832277022723-b2eqi9c6jo4guro53t8eb1rns16eo3sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biyer.biyer",
+            "certificate_hash": "1b9c594836a5f881c927d31a9d54d1942c2678b3"
+          }
+        },
+        {
+          "client_id": "832277022723-c9rko24q509i6b2r7s6m7hgjaok01fto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPCj6fDkg_ZpYOiKufToUKVJX_QqVs0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832277022723-c9rko24q509i6b2r7s6m7hgjaok01fto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
